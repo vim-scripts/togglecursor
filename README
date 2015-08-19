@@ -2,5 +2,4 @@ This is a mirror of http://www.vim.org/scripts/script.php?script_id=4403
 
 This plugin aims to provide the ability to change the cursor when entering Vim's
 insert mode on terminals that support it.  Currently, that's limited to iTerm,
-Konsole, and xterm is partially supported (creates an underline cursor instead
-of line, by default).
+Konsole, XTerm, and VTE-based terminals (version v0.39 or higher).
